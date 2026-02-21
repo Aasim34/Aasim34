@@ -25,6 +25,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
+  <a href="https://aasim.tech">
+    <img src="https://img.shields.io/badge/Portfolio-aasim.tech-4f8ef7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Aasim34&label=Profile+Views&color=4f8ef7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
