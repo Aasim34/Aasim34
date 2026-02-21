@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:vasim353@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#f0869183999dc3c5c3b0979d91999cde939f9d">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="https://aasim.tech">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-aasim.tech-0f172a?style=for-the-badge&labelColor=4f8ef7&color=0f172a" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-%F0%9F%8C%90%20PORTFOLIO-4f8ef7?style=for-the-badge" alt="Portfolio"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Aasim34&label=Profile+Views&color=4f8ef7&style=for-the-badge" alt="Profile Views"/>
@@ -48,32 +48,101 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+  <h3>⚡ Languages</h3>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+  </tr>
+</table>
 
-**Frontend & Backend**
+<div align="center">
+  <h3>🌐 Frontend & Backend</h3>
+</div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
 
-**AI / ML**
+<div align="center">
+  <h3>🤖 AI / Machine Learning</h3>
+</div>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" width="65" height="65" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="PyTorch" width="65" height="65" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+    </td>
+  </tr>
+</table>
 
-**Tools & Cloud**
+<div align="center">
+  <h3>🗄️ Tools & Cloud</h3>
+</div>
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="65" height="65" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -163,5 +232,4 @@ Constantly building new AI-first projects. Watch this space for upcoming release
 ---
 
 <p align="center">
-  <i>"Code. Learn. Break. Fix. Repeat."</i> ⭐
-</p>
+  <i>"Code.
