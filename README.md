@@ -26,7 +26,7 @@
   </a>
   &nbsp;
   <a href="https://aasim.tech">
-    <img src="https://img.shields.io/badge/Portfolio-aasim.tech-4f8ef7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-aasim.tech-0f172a?style=for-the-badge&labelColor=4f8ef7&color=0f172a" alt="Portfolio"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Aasim34&label=Profile+Views&color=4f8ef7&style=for-the-badge" alt="Profile Views"/>
