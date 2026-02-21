@@ -196,21 +196,16 @@ Constantly building new AI-first projects. Watch this space for upcoming release
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aasim34&show_icons=true&theme=tokyonight&border_radius=8" alt="GitHub Stats"/>
-  &nbsp;
-  <img width="48%" src="https://streak-stats.demolab.com?user=Aasim34&theme=tokyonight&border_radius=8" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aasim34&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Aasim34&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasim34&layout=compact&theme=tokyonight&border_radius=8" alt="Top Languages"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasim34&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=6" alt="Top Languages"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aasim34&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aasim34&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
 </p>
 
 ---
@@ -218,7 +213,7 @@ Constantly building new AI-first projects. Watch this space for upcoming release
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aasim34&theme=tokyo-night&border_radius=8" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aasim34&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
